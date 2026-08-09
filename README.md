@@ -22,23 +22,3 @@
 
 <br />
 
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <!-- CARD DE ESTATÍSTICAS DO GITHUB -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MoreiraChrygor&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&text_color=c9d1d9" alt="Estatísticas do GitHub" />
-  
-  <!-- CARD DAS LINGUAGENS MAIS USADAS -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraChrygor&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=238636&text_color=c9d1d9" alt="Linguagens mais usadas" />
-</div>
-
-<br />
-
----
-
-<div align="center">
-  <!-- RODAPÉ DE ONDAS -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=100&section=footer" width="100%" />
-</div>
