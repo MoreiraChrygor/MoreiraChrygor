@@ -16,6 +16,9 @@
 
   <br />
 
+  <a href="https://github.com/MoreiraChrygor">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoreiraChrygor&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="MoreiraChrygor's GitHub Stats" /></a>
+
   <h4>Linguagens & Baixo Nível</h4>
   <p align="center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
